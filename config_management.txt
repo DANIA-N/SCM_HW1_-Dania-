@@ -1,0 +1,15 @@
+Configuration management (CM) is the discipline of establishing and maintaining consistency of a product's functional and physical attributes throughout its life.
+
+For software products, software configuration management (SCM) applies this discipline to computer programs, scripts, documentation, and related items during software development and maintenance.
+
+Software configuration management (SCM) plays a vital role in coordinating software engineering teams and ensuring integrity of the software product.
+
+As software becomes more complex with intricate dependencies between components, software configuration management provides the control and visibility needed to manage change.
+
+Formal SCM processes reduce defects and rework by avoiding unauthorized changes that introduce inconsistencies. 
+
+Teams can work in parallel, branching and merging code changes in a controlled manner. Traceability links requirements, source code, and other artifacts to understand the impact of proposed changes.
+
+Release management procedures ensure consistency across versions and variants to meet customer needs while audits verify that CM practices are followed. 
+
+For these reasons, SCM is essential for any software development team aiming to deliver reliable, high-quality products efficiently.
